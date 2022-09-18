@@ -25,25 +25,9 @@ git clone https://github.com/saleor/saleor-platform.git --recursive --jobs 3
 
 ## How to run it?
 
-### With Makefile
-We prepared a few `make` commands for you
-
-#### Bootstrap app
-```shell
-make
-```
-
-#### Run all services
-```shell
-make run
-```
-
-#### Run only backend services
-```shell
-make run-backend 
-```
-
-See [Makefile](Makefile) for all commands 
+### Go to Terminal window 
+1) Use the following command : 
+     cd isec6000-assignment1
 
 ### With Docker steps
 
